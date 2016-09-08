@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kpiconfig:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="kpiconfig.war">
+      <element id="artifact" artifact-name="kpiconfig:war exploded" />
+    </root>
+  </artifact>
+</component>

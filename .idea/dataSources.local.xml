@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - autokpi@localhost" uuid="eb156bf2-c583-45b9-905f-3a112eda9630">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>autokpi.*</schema-pattern>
+      <default-schemas>autokpi.*</default-schemas>
+    </data-source>
+  </component>
+</project>
